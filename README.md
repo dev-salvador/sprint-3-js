@@ -53,9 +53,13 @@ lógica de manipulação direta do DOM (login/cadastro/logout) para o padrão
 de estado do React (`useState`/`useEffect`) mantendo o `localStorage`, e a
 revisar a estrutura final do código antes da entrega.
 
+## Github
+
+Link do repositório no Github: **[https://github.com/dev-salvador/sprint-3-js]**
+
 ## Deploy
 
-Link do deploy na Vercel: **[inserir aqui após o deploy]**
+Link do deploy na Vercel: **[sprint-3-js-six.vercel.app]**
 
 ## Estrutura de pastas
 
